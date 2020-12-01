@@ -28,3 +28,17 @@ Gostou da ideia?
 Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 
 
+* [Dia 01 - Efeito pulsar com imagens e design responsivo](#id01)
+
+
+##  Desafio dia 01 - Efeito pulsar com imagens e design responsivo <a name="id01"></a>
+![Dia 01](Desafios/Dia%2001%20-%20botões%20pulsantes/images/Dia%2001%20-%20Mugiwara%20Pulse.gif)
+
+
+[Meu codigo](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2001%20-%20bot%C3%B5es%20pulsantes)
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6739651237563662336/) 
+
+
+
+
