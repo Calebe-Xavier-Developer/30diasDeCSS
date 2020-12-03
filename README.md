@@ -30,6 +30,7 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 
 * [Dia 01 - Efeito pulsar com imagens e design responsivo](#id01)
 * [Dia 02 - Snake Border e design responsivo](#id02)
+* [Dia 03 - Efeito Girar](#id03)
 
 
 ##  Desafio dia 01 - Efeito pulsar com imagens e design responsivo <a name="id01"></a>
@@ -51,5 +52,14 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6740088385932681217/) 
 
 
+
+##  Desafio dia 03 - Efeito Girar <a name="id03"></a>
+![Dia 03](Desafios/Dia%2003%20-%20Efeito%20de%20Giro/images/Dia%2003%20-%20Efeito%20girar.gif)
+
+
+
+[Meu codigo](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2003%20-%20Efeito%20de%20Giro)
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6740400467605508097/)
 
 
