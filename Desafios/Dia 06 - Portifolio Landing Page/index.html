@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head><meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Desafio 30 dias de CSS - Dia 06</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>    
+    <body>
+        <section class="banner" id="sec">
+            <header>
+                <a href="#" class="logo">Logo</a>
+                <div id="toggle" onclick="toggle()"></div>
+            </header>
+            <div class="content">
+                <h2>Hello World,<br>I'm <span>Calebe Xavier</span></h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                Doloremque aperiam consequatur placeat optio vero dolorum vel modi, 
+                minima, assumenda cum expedita! Ab repudiandae dolorem et vitae 
+                hic, dicta eum.</p>
+                <a href="#">Know More</a>
+            </div>
+            <ul class="sci">
+                <li><a href="#"><img src="images/facebook.png"></a></li>
+                <li><a href="#"><img src="images/twitter.png"></a></li>
+                <li><a href="#"><img src="images/linkedin.png"></a></li>
+            </ul>
+        </section>
+        <div id="navigation">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Portfolio</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </div>
+
+
+
+        <!--My personal footer-->
+        <footer>
+            <p>
+              Created with <i class="fa fa-heart"></i> by
+              <a target="_blank" href="https://www.linkedin.com/in/calebe-xavier/">Calebe Xavier</a>
+              - My <a target="_blank" href="https://github.com/Calebe-Xavier-Developer">Github</a>
+              profile.
+            </p>
+        </footer>
+        <script type="text/javascript">
+            function toggle(){
+                var sec = document.getElementById('sec');
+                var nav = document.getElementById('navigation');
+                sec.classList.toggle('active');
+                nav.classList.toggle('active');
+            }
+        </script>
+    </body>
+</html>
