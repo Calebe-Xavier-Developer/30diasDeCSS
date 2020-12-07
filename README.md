@@ -33,6 +33,9 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 * [Dia 03 - Efeito Girar](#id03)
 * [Dia 04 - Efeito Hover no Menu](#id04)
 * [Dia 05 - Formulário para Login](#id05)
+* [Dia 06 - Portfolio Landing Page Responsive](#id06)
+
+
 
 
 
@@ -86,5 +89,17 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 [Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/feature/dia05/Desafios/Dia%2005%20-%20Login%20Form)
 
 [Post Linkedin](https://www.linkedin.com/feed/update/urn:li:ugcPost:6741176081149132800/)
+
+
+
+
+##  Desafio dia 06 - Portfolio Landing Page Responsive <a name="id06"></a>
+![Dia 06](Desafios/Dia%2006%20-%20Portifolio%20Landing%20Page/images/Dia%2006%20-%20Portifolio%20Landing%20Page.gif)
+
+
+
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2006%20-%20Portifolio%20Landing%20Page)
+
+[Post Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6741544885771358208/)
 
 
