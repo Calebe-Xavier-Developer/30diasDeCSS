@@ -35,6 +35,7 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 * [Dia 05 - Formulário para Login](#id05)
 * [Dia 06 - Portfolio Landing Page Responsive](#id06)
 * [Dia 07 - Responsive Contact Form](#id07)
+* [Dia 08 - Loading Animation](#id08)
 
 
 
@@ -113,4 +114,15 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 [Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2007%20-%20Responsive%20Contact%20Form)
 
 [Post Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6741901984623812608/)
+
+
+
+##  Desafio dia 08 - Loading Animation <a name="id08"></a>
+![Dia 08](Desafios/Dia%2008%20-%20Loading%20Animation/images/Dia%2008%20-%20Loading%20Animation.gif)
+
+
+
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2008%20-%20Loading%20Animation)
+
+[Post Linkedin](https://www.linkedin.com/feed/update/urn:li:ugcPost:6742256310970015744/)
 
