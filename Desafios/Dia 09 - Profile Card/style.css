@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Ubuntu", sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    height: 100vh;
+    background: url(images/bg.jpg) no-repeat center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.profile-card{
+    width: 400px;
+    text-align: center;
+    border-radius: 8px;
+    overflow: hidden;
+}
+.card-header{
+    background-color: rgb( 26, 26, 26);
+    padding: 60px 40px;
+}
+.pic{
+    display: inline-block;
+    padding: 8px;
+    background: linear-gradient(130deg,#4cd137, #0097e6);
+    margin: auto;
+    border-radius: 50%;
+    background-size: 200% 200% ;
+    animation: animated-gradient 2s linear infinite;
+}
+
+@keyframes animated-gradient{
+    25%{
+        background-position: left bottom;
+    }
+    50%{
+        background-position: right bottom;
+    }
+    75%{
+        background-position: right top;
+    }
+    100%{
+        background-position: left top;
+    }
+}
+.pic img{
+    display: block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.name{
+    color: #f2f2f2;
+    font-size: 28px;
+    font-weight: 600;
+    margin: 10px ;
+}
+.desc{
+    font-size: 18px;
+    color: #54d141;
+}
+.sm{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+.sm a{
+    color: #f2f2f2;
+    width: 56px;
+    font-size: 22px;
+    transition: .3s linear;
+}
+.sm a:hover{
+    color: #0097e6;
+}
+.contact-btn{
+    display: inline-block;
+    padding: 12px 50px;
+    color: #54d141;
+    border: 2px solid #54d141;
+    border-radius: 6px;
+    margin-top: 16px;
+    transition: .3s linear;
+}
+.contact-btn:hover{
+    background: #54d141;
+    color: #f2f2f2;
+}
+.card-footer{
+    background: #f4f4f4;
+    padding: 60px 10px;
+}
+.numbers{
+    display: flex;
+    align-items: center;
+}
+.item{
+    flex: 1;
+    text-transform: uppercase;
+    font-size: 13px;
+    color:  #0097e6;
+}
+.item span{
+    display: block;
+    color: #0097e6;
+    font-size: 30px;
+}
+.border{
+    width: 1px;
+    height: 30px;
+    background: #bbb;
+}
+
+
+/*FOOTER*/
+footer {
+    background-color: #222;
+    color: #fff;
+    font-size: 14px;
+    bottom: 0;
+    position: fixed;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 999;
+}
+
+footer p {
+    margin: 10px 0;
+}
+
+footer i {
+    color: red;
+}
+
+footer a {
+    color: #3c97bf;
+    text-decoration: none;
+}

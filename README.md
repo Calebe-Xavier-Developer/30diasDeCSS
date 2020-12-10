@@ -36,6 +36,8 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 * [Dia 06 - Portfolio Landing Page Responsive](#id06)
 * [Dia 07 - Responsive Contact Form](#id07)
 * [Dia 08 - Loading Animation](#id08)
+* [Dia 09 - Profile Card](#id09)
+
 
 
 
@@ -125,4 +127,17 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 [Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2008%20-%20Loading%20Animation)
 
 [Post Linkedin](https://www.linkedin.com/feed/update/urn:li:ugcPost:6742256310970015744/)
+
+
+
+
+##  Desafio dia 09 - Profile Card <a name="id09"></a>
+![Dia 09](Desafios/Dia%2009%20-%20Profile%20Card/images/Dia%2009%20-%20Card%20Profile.gif)
+
+
+
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/featuer/dia09/Desafios/Dia%2009%20-%20Profile%20Card)
+
+[Post Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6742627560343113728/)
+
 
