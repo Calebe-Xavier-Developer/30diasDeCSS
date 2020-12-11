@@ -37,6 +37,7 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 * [Dia 07 - Responsive Contact Form](#id07)
 * [Dia 08 - Loading Animation](#id08)
 * [Dia 09 - Profile Card](#id09)
+* [Dia 10 - Text Animation](#id10)
 
 
 
@@ -139,5 +140,16 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 [Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/featuer/dia09/Desafios/Dia%2009%20-%20Profile%20Card)
 
 [Post Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6742627560343113728/)
+
+
+
+##  Dia 10 - Text Animation <a name="id10"></a>
+![Dia 10](Desafios/Dia%2010%20%20-%20Text%20Animation/images/Dia%2010%20-%20Text%20Animation.gif)
+
+
+
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2010%20%20-%20Text%20Animation)
+
+[Post Linkedin](https://www.linkedin.com/feed/update/urn:li:ugcPost:6742995138647232512/)
 
 
