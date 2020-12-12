@@ -38,6 +38,7 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 * [Dia 08 - Loading Animation](#id08)
 * [Dia 09 - Profile Card](#id09)
 * [Dia 10 - Text Animation](#id10)
+* [Dia 11 - Card Hover](#id11)
 
 
 
@@ -151,5 +152,17 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 [Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2010%20%20-%20Text%20Animation)
 
 [Post Linkedin](https://www.linkedin.com/feed/update/urn:li:ugcPost:6742995138647232512/)
+
+
+
+
+##  Dia 11 - Card Hover <a name="id11"></a>
+![Dia 11](Desafios/Dia%2011%20-%20%20Card%20Hover%20Effect/images/Dia%2011%20-%20Card%20Hover.gif)
+
+
+
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2011%20-%20%20Card%20Hover%20Effect)
+
+[Post Linkedin](https://www.linkedin.com/feed/update/urn:li:ugcPost:6743349434240782336/)
 
 
