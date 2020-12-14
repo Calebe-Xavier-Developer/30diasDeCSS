@@ -39,6 +39,8 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 * [Dia 09 - Profile Card](#id09)
 * [Dia 10 - Text Animation](#id10)
 * [Dia 11 - Card Hover](#id11)
+* [Dia 12 - Parallax Scrolling](#id12)
+* [Dia 13 - Button Riplle Effect](#id13)
 
 
 
@@ -165,4 +167,26 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 
 [Post Linkedin](https://www.linkedin.com/feed/update/urn:li:ugcPost:6743349434240782336/)
 
+
+
+
+##  Dia 12 - Parallax Scrolling <a name="id12"></a>
+![Dia 12](Desafios/Dia%2012%20-%20Parallax%20Scrolling/images/Dia%2012%20-%20Parallax%20Scrolling.gif)
+
+
+
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2012%20-%20Parallax%20Scrolling)
+
+[Post Linkedin](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6743710056086286336/)
+
+
+
+##  Dia 13 - Button Riplle Effect <a name="id13"></a>
+![Dia 13](Desafios/Dia%2013%20-%20Button%20Riplle%20Effect/images/Dia%2013%20-%20Button%20Ripller%20Effect.gif)
+
+
+
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2013%20-%20Button%20Riplle%20Effect)
+
+[Post Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6744075169486139392/)
 
