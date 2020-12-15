@@ -41,7 +41,7 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 * [Dia 11 - Card Hover](#id11)
 * [Dia 12 - Parallax Scrolling](#id12)
 * [Dia 13 - Button Riplle Effect](#id13)
-
+* [Dia 14 - Hovering Cards](#id14)
 
 
 
@@ -189,4 +189,15 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 [Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2013%20-%20Button%20Riplle%20Effect)
 
 [Post Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6744075169486139392/)
+
+
+
+##  Dia 14 - Hovering Cards <a name="id14"></a>
+![Dia 14](Desafios/Dia%2014%20-%20Hoverring%20Cards/images/Dia%2014%20-%20Hovering%20Card.gif)
+
+
+
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2014%20-%20Hoverring%20Cards)
+
+[Post Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6744439881885356032/)
 
