@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 2000px;
+}
+section{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: url(images/bg.jpeg);
+}
+/*FOOTER*/
+footer {
+    background-color: #222;
+    color: #fff;
+    font-size: 14px;
+    bottom: 0;
+    position: fixed;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 999;
+}
+
+footer p {
+    margin: 10px 0;
+}
+
+footer i {
+    color: red;
+}
+
+footer a {
+    color: #3c97bf;
+    text-decoration: none;
+}
+
+https://www.youtube.com/watch?v=K8v5ycE262s&list=RDCMUCbwXnUipZsLfUckBPsC7Jog&start_radio=1&t=27
