@@ -8,6 +8,24 @@
     </head>
     <body>
         <section></section>
+        <div>
+            <h1>Non ad consequuntur molestiae ?</h1>
+            <p class="text">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, itaque deleniti nisi perferendis ipsum laboriosam nemo neque perspiciatis voluptatem eaque sit quos voluptatibus. Accusamus vel beatae fugit sit alias odit.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, in odit, hic nihil ex accusamus rem voluptatibus praesentium facere, sapiente magni exercitationem mollitia possimus laudantium sed vero ipsam eos earum!
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error repellendus, nobis omnis nam, debitis dolores corporis illum officia exercitationem voluptatem necessitatibus fugit, voluptatum voluptates blanditiis accusantium illo beatae cum! Excepturi!
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut quam qui quia dolore rerum temporibus facere animi doloribus enim beatae, cumque sint iure voluptate, eum omnis voluptatem! Nesciunt, reprehenderit perspiciatis.
+            </p>
+            <div class="body">
+                <a class="BTN" href="#">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    Click here
+                </a>
+            </div>
+        </div>
         <footer>
             <p>
             Created with <i class="fa fa-heart"></i> by
@@ -15,6 +33,19 @@
             - My <a target="_blank" href="https://github.com/Calebe-Xavier-Developer">Github</a>
             profile.
             </p>
-        </footer> 
+        </footer>
+        <script
+            src="https://code.jquery.com/jquery-3.5.1.js"
+            integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+            crossorigin="anonymous">
+        </script> 
+        <script type="text/javascript">
+            $(window).scroll(function(){
+                let scroll_position = $(window).scrollTop()/2;
+                $('section').css({
+                    'background-position-x' : - scroll_position + 'px',
+                })
+            })
+        </script>
     </body>
 </html>   
