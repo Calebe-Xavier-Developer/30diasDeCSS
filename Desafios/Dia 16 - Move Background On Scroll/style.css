@@ -2,7 +2,7 @@
 body{
     margin: 0;
     padding: 0;
-    height: 3000px;
+    height: 4000px;
     background: linear-gradient(270deg, #262626, #000);
     color: #fff;
     text-shadow: #000 2px 3px 2px;
@@ -13,7 +13,7 @@ body{
 section{
     position: relative;
     width: 100%;
-    height: 2000px;
+    height: 3000px;
     background: url(images/bg.jpeg);
     background-repeat: no-repeat;
     background-attachment: fixed;
