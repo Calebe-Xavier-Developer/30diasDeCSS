@@ -10,15 +10,89 @@ body{
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #fada3e;
+  background: #ffe400;
 }
 .container{
   position: relative;
-  width: 1000px;
+  width: 1006px;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(2550px, 1fr));
-
-}https://www.youtube.com/watch?v=u5llIESEPqA
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  border-style: solid;
+}
+.container .card{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+}
+.container .card:nth-child(even){
+  flex-direction: column-reverse;
+}
+.container .card .imgBx{
+  position: relative;
+  width: 250px;
+  height: 250px;
+  background: #000;
+}
+.container .card .imgBx img{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.container .card .content{
+  position: relative;
+  width: 250px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container .card .content div{
+  padding: 20px;
+  text-align: center;
+}
+@media (max-width: 1000px){
+  .container{
+    grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
+    margin: 50px;
+    border-style: none;
+  }
+  .container .card{
+    flex-direction: row;
+    margin: 10px 0;
+    border-style:solid;
+  }
+  .container .card:nth-child(even){
+    flex-direction: row-reverse;
+  }
+  .container .card .imgBx,
+  .container .card .content{
+    width: 50%;
+  }
+}
+@media (max-width: 600px){
+  .container{
+    border-style: none;
+  }
+  .container .card{
+    flex-direction: column;
+    margin: 10px 0;
+    border-style:solid;
+  }
+  .container .card:nth-child(even){
+    flex-direction: column;
+  }
+  .container .card .imgBx,
+  .container .card .content{
+    width: 100%;
+  }
+  .container .card .content{
+    height: 200px;
+  }
+}
 /*FOOTER*/
 footer {
     font-family: 'Poppins',sans-serif;
@@ -31,7 +105,6 @@ footer {
     right: 0;
     text-align: center;
     z-index: 999;
-    position: absolute;
   }
   
   footer p {
