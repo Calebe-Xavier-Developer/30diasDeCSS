@@ -42,7 +42,11 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 * [Dia 12 - Parallax Scrolling](#id12)
 * [Dia 13 - Button Riplle Effect](#id13)
 * [Dia 14 - Hovering Cards](#id14)
-
+* [Dia 15 - Creative Hover Menu](#id15)
+* [Dia 16 - Move Background On Scroll](#id16)
+* [Dia 17 - Acoordin Menu](#id17)
+* [Dia 18 - Social Tiles](#id18)
+* [Dia 19 - Responsive Box](#id19)
 
 
 
@@ -201,3 +205,62 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 
 [Post Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6744439881885356032/)
 
+
+
+##  Dia 15 - Creative Hover Menu <a name="id15"></a>
+![Dia 15](Desafios/Dia%2015%20-%20Creative%20Hover%20Menu/images/Dia%2015%20-%20Creative%20Hover%20Menu.gif)
+
+
+
+
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2015%20-%20Creative%20Hover%20Menu)
+
+[Post Linkedin](https://www.linkedin.com/posts/calebe-xavier_30diasdecss-activity-6745160272735936512-By3A)
+
+
+
+##  Dia 16 - Move Background On Scroll <a name="id16"></a>
+![Dia 16](Desafios/Dia%2016%20-%20Move%20Background%20On%20Scroll/images/Dia%2016%20-%20Move%20Background%20On%20Scroll.gif)
+
+
+
+
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2016%20-%20Move%20Background%20On%20Scroll)
+
+[Post Linkedin](https://www.linkedin.com/posts/calebe-xavier_30diasdecss-activity-6745505034022223872-iU3K)
+
+
+
+##  Dia 17 - Acoordin Menu <a name="id17"></a>
+![Dia 17](Desafios/Dia%2017%20-%20Acordding%20Menu/images/Dia%2017%20-%20Acoordin%20Menu.gif)
+
+
+
+
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2017%20-%20Acordding%20Menu)
+
+[Post Linkedin](https://www.linkedin.com/posts/calebe-xavier_30diasdecss-activity-6745888819989487617-y5q4)
+
+
+
+##  Dia 18 - Social Tiles <a name="id18"></a>
+![Dia 18](Desafios/Dia%2018%20-%20Social%20Tiles/images/Dia%2018%20-%20Social%20Tiles.gif)
+
+
+
+
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2018%20-%20Social%20Tiles)
+
+[Post Linkedin](https://www.linkedin.com/posts/calebe-xavier_30diasdecss-activity-6749174143444385792-Wi1j)
+
+
+
+##  Dia 19 - Responsive Box <a name="id19"></a>
+![Dia 19](Desafios/Dia%2019%20-%20Responsive%20Box/images/Dia%2019%20-%20Responsive%20Box.gif)
+
+
+
+
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2019%20-%20Responsive%20Box)
+
+[Post Linkedin](https://www.linkedin.com/posts/calebe-xavier_30diasdecss-activity-6749174494742515712-1WBw)
