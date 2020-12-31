@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio 30 dias de CSS - Dia 23</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <form action="index.html" class="login-form">
+        <h1>Login</h1>
+
+        <div class="txtb">
+            <input type="text">
+            <span data-placeholder="Username"></span>
+        </div>
+
+        <div class="txtb">
+            <input type="password">
+            <span data-placeholder="Password"></span>
+        </div>
+
+        <input type="submit" class="logbtn" value="Login">
+        <div class="bottom-text">
+            Don't have account? <a href="#" class="a">Sign up</a>
+        </div>
+    </form>
+    <footer>
+        <p>
+        Created with <i class="fa fa-heart"></i> by
+        <a target="_blank" href="https://www.linkedin.com/in/calebe-xavier/">Calebe Xavier</a>
+        - My <a target="_blank" href="https://github.com/Calebe-Xavier-Developer">Github</a>
+        profile.
+        </p>
+    </footer>
+
+
+    <script type="text/javascript">
+        $(".txtb input").on("focus",function(){
+            $(this).addClass("focus");
+        });
+
+        $(".txtb input").on("blur",function(){
+            if($(this).val() == "")
+            $(this).removeClass("focus");
+        });
+
+
+    </script>
+</body>
+</html>
