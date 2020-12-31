@@ -90,7 +90,10 @@ body{
     font-size: 13px;
 }
 .a:hover{
-    transform: scale(1)
+    font-size: 20px;
+    color:rgb(158, 45, 206)d;
+    font-weight: bold;
+    transition: .5s;
 }
 /*FOOTER*/
 footer {
