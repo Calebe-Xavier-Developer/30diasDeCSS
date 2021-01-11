@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css?family=Barlow|Tomorrow:400,700&display=swap");
+@font-face{
+    font-family: "cyberpunk";
+    src: url(Cyberpunk.ttf);
+}
+.t1{
+    font-family: "barlow";
+}
