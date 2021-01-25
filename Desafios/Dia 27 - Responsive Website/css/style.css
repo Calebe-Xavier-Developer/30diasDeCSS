@@ -28,16 +28,135 @@
   max-width: 750px;
   text-align: center;
 }
+.banner .content h2{
+  color: #fff;
+  font-size: 60px;
+}
+.banner .content p{
+  color: #fff;
+  font-size: 18px;
+}
+.banner header{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 40px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 10000;
+}
+.banner header .logo{
+  color: #fff;
+  text-decoration: none;
+  font-size: 24px;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+.banner header .toggle{
+  position: relative;
+  width: 36px;
+  height: 28px;
+  background: url(../images/toggle.png);
+  background-size: cover;
+  cursor: pointer;
+}
+.about{
+  position: relative;
+  width: 100%;
+  display: flex;
+}
+.about .contentBx{
+  background: #16353b;
+  padding: 100px;
+  width: 50%;
+}
+.heading{
+  color: #fff;
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+}
+.text{
+  color: #fff;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+.about .imgBx{
+  background: url(../images/window.jpg);
+  width: 50%;
+  background-size: cover;
+  background-position: center;
+}
+.services{
+  background: #102533;
+  padding: 100px;
+  text-align: center;
+}
+.services .container{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 60px;
+}
+.services .container .serviceBx{
+  position: relative;
+  background: #fff;
+  width: 350px;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.services .container .serviceBx img{
+  max-width: 100px;
+}
+.services .container .serviceBx h2{
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+.technology{
+  background: #3ffc7e;
+  width: 100%;
+  padding: 100px;
+  padding-top: 300px;
+  margin-top: -300px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.technology .contentBx{
+  max-width: 800px;
+}
+.technology .imgBx{
+  max-width: 250px;
+}
+.technology .imgBx img{
+  max-width: 100%;
+}
+
+
+
 /*FOOTER*/
 footer {
     background-color: #222;
     color: #fff;
     font-size: 14px;
     bottom: 0;
-    position: fixed;
+    /*position: fixed;*/ /*If you want it to float put | Se quer que flutue coloque*/
+    position: relative; /*If you want to float remove | Se quer que flutue retire*/
+    display: flex; /*If you want to float remove | Se quer que flutue retire*/
+    justify-content: center; /*If you want to float remove | Se quer que flutue retire */
     left: 0;
     right: 0;
-    text-align: center;
+    /*text-align: center;*/ /*If you want it to float put | Se quer que flutue coloque*/
     z-index: 999;
   }
   
