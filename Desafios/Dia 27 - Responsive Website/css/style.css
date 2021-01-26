@@ -2,8 +2,12 @@
 *{
   margin: 0;
   padding: 0;
+  position: relative;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
+}
+body{
+  overflow-x: hidden;
 }
 .banner{
   position: relative;
@@ -67,6 +71,7 @@
   position: relative;
   width: 100%;
   display: flex;
+  background: #16353b;;
 }
 .about .contentBx{
   background: #16353b;
@@ -113,6 +118,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  z-index: 1;
 }
 .services .container .serviceBx img{
   max-width: 100px;
@@ -131,9 +137,16 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
 }
 .technology .contentBx{
   max-width: 800px;
+}
+.technology .contentBx h2{
+  text-shadow: -2px 0px 4px rgb(0, 193, 252);
+}
+.technology .contentBx p{
+  text-shadow: -2px 0px 4px rgb(0, 193, 252);
 }
 .technology .imgBx{
   max-width: 250px;
