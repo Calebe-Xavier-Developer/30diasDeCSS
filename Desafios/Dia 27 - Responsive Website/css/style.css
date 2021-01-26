@@ -250,6 +250,123 @@
   cursor: pointer;
   font-weight: 400;
 }
+.footer{
+  background: #162c3b;
+  padding: 20px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer ul{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer ul li{
+  list-style: none;
+}
+.footer ul li a{
+  text-decoration: none;
+  display: inline-block;
+  margin: 0 10px;
+}
+.footer ul li a img{
+  filter: invert(1);
+  max-width: 20px;
+}
+
+@media (max-width: 991px){
+  .banner{
+    padding: 50px;
+    transition: 0.5s;
+  }
+  .banner header{
+    padding: 20px 50px;
+    transition: 0.5s;
+  }
+  .banner .content h2{
+    font-size: 35px;
+    transition: 0.5s;
+  }
+  .banner .content p{
+    font-size: 15px;
+    transition: 0.5s;
+  }
+  .about{
+    flex-direction: column;
+    transition: 0.5s;
+  }
+  .about .contentBx, .about .imgBx{
+    width: 100%;
+    padding: 50px;
+    min-height: 400px;
+    text-align: center;
+    transition: 0.5s;
+  }
+  .services{
+    padding: 50px;
+    transition: 0.5s;
+  }
+  .services .container{
+    justify-content: center;
+    margin-top: 20px;
+    transition: 0.5s;
+  }
+  .services .container .serviceBx{
+    margin: 20px;
+    width: 300px;
+    height: 350px;
+    transition: 0.5s;
+  }
+  .technology{
+    padding: 50px;
+    padding-top: 300px;
+    justify-content: center;
+    flex-direction: column;
+    transition: 0.5s;
+  }
+  .technology .imgBx{
+    margin-top: 40px;
+    max-width: 250px;
+    transition: 0.5s;
+  }
+  .client{
+    padding: 50px;
+    transition: 0.5s;
+  }
+  .client .imgBx{
+    justify-content: center;
+    transition: 0.5s;
+  }
+  .testimonials{
+    padding: 50px;
+    transition: 0.5s;
+  }
+  .testimonials .contentBx{
+    padding: 60px 40px;
+    max-width: 550px;
+    margin-bottom: 40px;
+    transition: 0.5s;
+  }
+  .testimonials .contentBx:last-child{
+    margin-bottom: 0px;
+    transition: 0.5s;
+  }
+  .contact{
+    padding: 50px;
+    transition: 0.5s;
+  }
+  .footer{
+    padding: 20px 50px;
+    flex-direction: column-reverse;
+    text-align: center;
+    transition: 0.5s;
+  }
+  .footer ul{
+    margin-bottom: 20px;
+    transition: 0.5s;
+  }
+}
 
 
 /*FOOTER*/
