@@ -123,7 +123,7 @@
   letter-spacing: 1px;
 }
 .technology{
-  background: #3ffc7e;
+  background: #fcd33f;
   width: 100%;
   padding: 100px;
   padding-top: 300px;
@@ -140,6 +140,28 @@
 }
 .technology .imgBx img{
   max-width: 100%;
+}
+.client{
+  background: #162c3b;
+  padding: 100px;
+  text-align: center;
+}
+.client .imgBx{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 40px;
+}
+.client .imgBx img{
+  max-width: 200px;
+  margin: 20px;
+  opacity: 0.25;
+  cursor: pointer;
+}
+.client .imgBx img:hover{
+  opacity: 1;
+  transition: 0.5s;
 }
 
 
