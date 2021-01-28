@@ -1,122 +1,130 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-*{
-    margin: 0;
-    padding: 0;
-    text-decoration: none;
-    font-family: "Montserrat", sans-serif;
-    box-sizing: border-box;
-}    
-body{
-    min-height: 100vh;
-    background-image: linear-gradient(120deg, #414cee, #8e44ad, #41bdee, #414cee);
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+  box-sizing: border-box;
 }
-.login-form{
-    width: 360px;
-    background: #f1f1f1;
-    height: 580px;
-    padding: 80px 40px;
-    border-radius: 10px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
+body {
+  min-height: 100vh;
+  background-image: linear-gradient(120deg, #414cee, #8e44ad, #41bdee, #414cee);
 }
-.login-form h1{
-    text-align: center;
-    margin-bottom: 60px;
+.login-form {
+  width: 360px;
+  background: #f1f1f1;
+  height: 580px;
+  padding: 80px 40px;
+  border-radius: 10px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
-.txtb{
-    border-bottom: 2px solid #adadad;
-    position: relative;
-    margin: 30px 0;
+.login-form h1 {
+  text-align: center;
+  margin-bottom: 60px;
 }
-.txtb input{
-    font-size: 15px;
-    color: #333;
-    border: none;
-    width: 100%;
-    outline: none;
-    background: none;
-    padding: 0 5px;
-    height: 40px;
+.txtb {
+  border-bottom: 2px solid #adadad;
+  position: relative;
+  margin: 30px 0;
 }
-.txtb span::before{
-    content: attr(data-placeholder);
-    position: absolute;
-    top: 50%;
-    right: 200px;
-    left: 5px;
-    color: #adadad;
-    transform: translateY(-50%);
-    z-index: -1;
-    transition: .5s;
+.txtb input {
+  font-size: 15px;
+  color: #333;
+  border: none;
+  width: 100%;
+  outline: none;
+  background: none;
+  padding: 0 5px;
+  height: 40px;
 }
-.txtb span::after{
-    content: '';
-    position: absolute;
-    width: 0%;
-    left: 0;
-    bottom: -1px;
-    height: 2px;
-    background: linear-gradient(120deg, #414cee, #8e44ad, #41bdee, #414cee);
-    transition: .5s;
+.txtb span::before {
+  content: attr(data-placeholder);
+  position: absolute;
+  top: 50%;
+  right: 200px;
+  left: 5px;
+  color: #adadad;
+  transform: translateY(-50%);
+  z-index: -1;
+  transition: 0.5s;
 }
-.focus + span::before{
-   top: -5px;
+.txtb span::after {
+  content: "";
+  position: absolute;
+  width: 0%;
+  left: 0;
+  bottom: -1px;
+  height: 2px;
+  background: linear-gradient(120deg, #414cee, #8e44ad, #41bdee, #414cee);
+  transition: 0.5s;
 }
-.focus + span::after{
-    width: 100%;
+.focus + span::before {
+  top: -5px;
 }
-.logbtn{
-    display: block;
-    width: 100%;
-    height: 50px;
-    border: none;
-    font-size: 15px;
-    background: linear-gradient(120deg, #414cee, #8e44ad, #41bdee, #414cee, #8e44ad, #41bdee);
-    background-size: 200%;
-    color: #fff;
-    outline: none;
-    cursor: pointer;
-    transition: .5s;
+.focus + span::after {
+  width: 100%;
 }
-.logbtn:hover{
-    background-position: right;
+.logbtn {
+  display: block;
+  width: 100%;
+  height: 50px;
+  border: none;
+  font-size: 15px;
+  background: linear-gradient(
+    120deg,
+    #414cee,
+    #8e44ad,
+    #41bdee,
+    #414cee,
+    #8e44ad,
+    #41bdee
+  );
+  background-size: 200%;
+  color: #fff;
+  outline: none;
+  cursor: pointer;
+  transition: 0.5s;
 }
-.bottom-text{
-    margin-top: 60px;
-    text-align: center;
-    font-size: 13px;
+.logbtn:hover {
+  background-position: right;
 }
-.a:hover{
-    font-size: 20px;
-    color:rgb(158, 45, 206)d;
-    font-weight: bold;
-    transition: .5s;
+.bottom-text {
+  margin-top: 60px;
+  text-align: center;
+  font-size: 13px;
+}
+.a:hover {
+  font-size: 20px;
+  color: rgb(158, 45, 206) d;
+  font-weight: bold;
+  transition: 0.5s;
 }
 /*FOOTER*/
 footer {
-    background-color: #222;
-    color: #fff;
-    font-size: 14px;
-    bottom: 0;
-    position: fixed;
-    left: 0;
-    right: 0;
-    text-align: center;
-    z-index: 999;
-  }
-  
-  footer p {
-    margin: 10px 0;
-  }
-  
-  footer i {
-    color: red;
-  }
-  
-  footer a {
-    color: #3c97bf;
-    text-decoration: none;
-  }
+  background-color: #222;
+  color: #fff;
+  font-size: 14px;
+  bottom: 0;
+  position: fixed;
+  left: 0;
+  right: 0;
+  text-align: center;
+  z-index: 999;
+}
+
+footer p {
+  margin: 10px 0;
+}
+
+footer i {
+  color: red;
+}
+
+footer a {
+  color: #3c97bf;
+  text-decoration: none;
+}

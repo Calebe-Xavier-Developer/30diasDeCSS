@@ -1,121 +1,120 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
-*{
-    margin: 0;
-    padding: 0;
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
 }
-body{
-    background: #ddd;
+body {
+  background: #ddd;
 }
-.middle{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
+.middle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
-.image{
-    width: 720px;
-    height: 480px;
-    overflow: hidden;
-    cursor: pointer;
+.image {
+  width: 720px;
+  height: 480px;
+  overflow: hidden;
+  cursor: pointer;
 }
-.image img{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-} 
-.image-content{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    padding: 40px;
-    box-sizing: border-box;
+.image img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
-.image-content h1{
-    color: #fff;
-    text-transform: uppercase;
-    transform: translateY(20px);
-    transition: 0.4s;
+.image-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding: 40px;
+  box-sizing: border-box;
 }
-.image:hover .image-content h1{
-    transform: translateY(0px);
+.image-content h1 {
+  color: #fff;
+  text-transform: uppercase;
+  transform: translateY(20px);
+  transition: 0.4s;
 }
-.icons{
-    position: absolute;
-    right: 40px;
-    bottom: 40px;
+.image:hover .image-content h1 {
+  transform: translateY(0px);
 }
-.icon{
-    text-decoration: none;
-    color: #333;
-    font-size: 30px;
-    margin: 0 10px;
-    transform: translateY(80px);
+.icons {
+  position: absolute;
+  right: 40px;
+  bottom: 40px;
 }
-.image:hover .icon{
-    transform: translateY(0px);
+.icon {
+  text-decoration: none;
+  color: #333;
+  font-size: 30px;
+  margin: 0 10px;
+  transform: translateY(80px);
 }
-.icon:nth-child(1){
-    transition: transform 0.4s 0.05s, color 0.4s;
+.image:hover .icon {
+  transform: translateY(0px);
 }
-.icon:nth-child(1):hover{
-    color: #db345e;
+.icon:nth-child(1) {
+  transition: transform 0.4s 0.05s, color 0.4s;
 }
-.icon:nth-child(2){
-    transition: transform 0.4s 0.1s, color 0.4s;
+.icon:nth-child(1):hover {
+  color: #db345e;
 }
-.icon:nth-child(2):hover{
-    color: #3498db;
+.icon:nth-child(2) {
+  transition: transform 0.4s 0.1s, color 0.4s;
 }
-.icon:nth-child(3){
-    transition: transform 0.4s 0.15s, color 0.4s;
+.icon:nth-child(2):hover {
+  color: #3498db;
 }
-.icon:nth-child(3):hover{
-    color: #24e013;
+.icon:nth-child(3) {
+  transition: transform 0.4s 0.15s, color 0.4s;
 }
-.image-content::before{
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    background: rgba(255, 255, 255, 0.7);
-    width: 100%;
-    height: 0px;
-    clip-path: polygon(0 100%, 100% 0, 100% 100%);
-    transition: 0.5s;
+.icon:nth-child(3):hover {
+  color: #24e013;
 }
-.image-content:hover::before{
-    height: 140px;
-
+.image-content::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background: rgba(255, 255, 255, 0.7);
+  width: 100%;
+  height: 0px;
+  clip-path: polygon(0 100%, 100% 0, 100% 100%);
+  transition: 0.5s;
+}
+.image-content:hover::before {
+  height: 140px;
 }
 
 /*FOOTER*/
 footer {
-    font-family: 'Poppins',sans-serif !important;
-    background-color: #222;
-    color: #fff;
-    font-size: 14px;
-    bottom: 0;
-    position: fixed;
-    left: 0;
-    right: 0;
-    text-align: center;
-    z-index: 999;
-  }
-  
-  footer p {
-    margin: 10px 0;
-  }
-  
-  footer i {
-    color: red;
-  }
-  
-  footer a {
-    color: #3c97bf;
-    text-decoration: none;
-  }
+  font-family: "Poppins", sans-serif !important;
+  background-color: #222;
+  color: #fff;
+  font-size: 14px;
+  bottom: 0;
+  position: fixed;
+  left: 0;
+  right: 0;
+  text-align: center;
+  z-index: 999;
+}
+
+footer p {
+  margin: 10px 0;
+}
+
+footer i {
+  color: red;
+}
+
+footer a {
+  color: #3c97bf;
+  text-decoration: none;
+}

@@ -1,171 +1,171 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
 }
-body{
-    display: flex;
-    justify-content: center;
-    min-height: 100vh;
-    background: #262626;
+body {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  background: #262626;
 }
-.container{
-    position: relative;
-    width: 100%;
-    max-width: 1100px;
-    margin: 40px;
-    height: 700px;
-    background: #424242;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 1100px;
+  margin: 40px;
+  height: 700px;
+  background: #424242;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
-.container .formBx{
-    width: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.container .formBx {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.container .formBx form{
-    position: relative;
-    width: 100%;
-    padding: 0 0 0 75px;
+.container .formBx form {
+  position: relative;
+  width: 100%;
+  padding: 0 0 0 75px;
 }
-.container .formBx form h2{
-    color: #fff;
-    font-weight: 500;
-    font-size: 2em;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    margin-bottom: 40px;
+.container .formBx form h2 {
+  color: #fff;
+  font-weight: 500;
+  font-size: 2em;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 40px;
 }
-.container .formBx form .inputBox{
-    position: relative;
-    margin-bottom: 40px;
+.container .formBx form .inputBox {
+  position: relative;
+  margin-bottom: 40px;
 }
-.container .formBx form .inputBox:last-child{
-    margin-bottom: 0px;
+.container .formBx form .inputBox:last-child {
+  margin-bottom: 0px;
 }
 .container .formBx form .inputBox input,
-.container .formBx form .inputBox textarea{
-    position: relative;
-    background: transparent;
-    outline: none;
-    border: none;
-    width: 100%;
-    color: #fff;
-    padding-bottom: 10px;
-    font-size: 16px;
-    letter-spacing: 1px;
-    font-weight: 300;
-    border-bottom: 2px solid rgba(255, 255, 255, 0.5);
-    resize: none;
+.container .formBx form .inputBox textarea {
+  position: relative;
+  background: transparent;
+  outline: none;
+  border: none;
+  width: 100%;
+  color: #fff;
+  padding-bottom: 10px;
+  font-size: 16px;
+  letter-spacing: 1px;
+  font-weight: 300;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.5);
+  resize: none;
 }
-.container .formBx form .inputBox textarea{
-    height: 100px;
+.container .formBx form .inputBox textarea {
+  height: 100px;
 }
-.container .formBx form .inputBox input[type="submit"]{
-    padding: 8px 10px;
-    margin-top: -10px;
-    width: 100px;
-    cursor: pointer;
-    background: #fcf817;
-    color: #000;
-    font-size: 18px;
-    font-weight: 400;
-    border: none;
-    text-transform: uppercase;
-    letter-spacing: 4px;
+.container .formBx form .inputBox input[type="submit"] {
+  padding: 8px 10px;
+  margin-top: -10px;
+  width: 100px;
+  cursor: pointer;
+  background: #fcf817;
+  color: #000;
+  font-size: 18px;
+  font-weight: 400;
+  border: none;
+  text-transform: uppercase;
+  letter-spacing: 4px;
 }
-.container .formBx form .inputBox input[type="submit"]:focus{
-    background: #fc1a4b;
-    color: #000;
+.container .formBx form .inputBox input[type="submit"]:focus {
+  background: #fc1a4b;
+  color: #000;
 }
-.container .formBx form .inputBox span{
-    position: absolute;
-    left: 0;
-    font-size: 16px;
-    font-weight: 300;
-    display: inline-block;
-    pointer-events: none;
-    letter-spacing: 1px;
-    color: rgba(222, 225, 255, 0.5);
-    transition: all 0.2s;
-}    
+.container .formBx form .inputBox span {
+  position: absolute;
+  left: 0;
+  font-size: 16px;
+  font-weight: 300;
+  display: inline-block;
+  pointer-events: none;
+  letter-spacing: 1px;
+  color: rgba(222, 225, 255, 0.5);
+  transition: all 0.2s;
+}
 .container .formBx form .inputBox input:focus ~ span,
 .container .formBx form .inputBox textarea:focus ~ span,
 .container .formBx form .inputBox input:valid ~ span,
-.container .formBx form .inputBox textarea:valid ~ span{
-    transform: translateY(-24px);
-    color: #fc1a4b;
-    font-size: 14px;
+.container .formBx form .inputBox textarea:valid ~ span {
+  transform: translateY(-24px);
+  color: #fc1a4b;
+  font-size: 14px;
 }
 .container .formBx form .inputBox input:focus,
 .container .formBx form .inputBox textarea:focus,
 .container .formBx form .inputBox input:valid,
-.container .formBx form .inputBox textarea:valid{
-    border-bottom-color: #fff;
+.container .formBx form .inputBox textarea:valid {
+  border-bottom-color: #fff;
 }
-.container .imgBx{
-    position: relative;
-    width: 50%;
-    height: 100%;
-    overflow: hidden;
+.container .imgBx {
+  position: relative;
+  width: 50%;
+  height: 100%;
+  overflow: hidden;
 }
-.container .imgBx::before{
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
+.container .imgBx::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #fcf817;
+  transform-origin: bottom;
+  transform: skewX(-25deg) translateX(10%);
+}
+.container .imgBx img {
+  position: absolute;
+  bottom: 0;
+  max-height: 95%;
+}
+@media (max-width: 991px) {
+  .container .formBx {
     width: 100%;
-    height: 100%;
-    background: #fcf817;
-    transform-origin: bottom;
-    transform: skewX(-25deg) translateX(10%);
-}
-.container .imgBx img{
-    position: absolute;
-    bottom: 0;
-    max-height: 95%;
-}
-@media (max-width:991px){
-    .container .formBx{
-        width: 100%;
-        padding: 0 50px;
-    }
-    .container .formBx form{
-        width: 100%;
-        max-width: 500px;
-        padding: 0;
-    }
-    .container .imgBx{
-        display: none;
-    }
+    padding: 0 50px;
+  }
+  .container .formBx form {
+    width: 100%;
+    max-width: 500px;
+    padding: 0;
+  }
+  .container .imgBx {
+    display: none;
+  }
 }
 /*FOOTER*/
 footer {
-    background-color: #222;
-    color: #fff;
-    font-size: 14px;
-    bottom: 0;
-    position: fixed;
-    left: 0;
-    right: 0;
-    text-align: center;
-    z-index: 999;
+  background-color: #222;
+  color: #fff;
+  font-size: 14px;
+  bottom: 0;
+  position: fixed;
+  left: 0;
+  right: 0;
+  text-align: center;
+  z-index: 999;
 }
 
 footer p {
-    margin: 10px 0;
+  margin: 10px 0;
 }
 
 footer i {
-    color: red;
+  color: red;
 }
 
 footer a {
-    color: #3c97bf;
-    text-decoration: none;
+  color: #3c97bf;
+  text-decoration: none;
 }

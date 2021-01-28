@@ -1,108 +1,108 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
-body{
-    margin: 0;
-    padding: 0;
-    font-family: sans-serif;
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
 }
-.background{
-    background: url(images/cybercity.jpg);
-    background-size: cover;
-    position: fixed;
-    width: 100%;
-    height: 100%;
+.background {
+  background: url(images/cybercity.jpg);
+  background-size: cover;
+  position: fixed;
+  width: 100%;
+  height: 100%;
 }
-.loginBox{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    padding: 80px 40px;
-    width: 350px;
-    height: 420px;
-    box-sizing: border-box;
-    background-color: rgba(0, 0, 0, 0.5);
+.loginBox {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 80px 40px;
+  width: 350px;
+  height: 420px;
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.5);
 }
-.user{
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    overflow: hidden;
-    position: absolute;
-    top: calc(-100px/2);
-    left: calc(50% - 50px);
+.user {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  overflow: hidden;
+  position: absolute;
+  top: calc(-100px / 2);
+  left: calc(50% - 50px);
 }
-h2{
-    margin: 0;
-    padding: 0 0 20px;
-    color: #69f8d9;
-    text-align: center;
+h2 {
+  margin: 0;
+  padding: 0 0 20px;
+  color: #69f8d9;
+  text-align: center;
 }
-.loginBox p{
-    margin: 0;
-    padding: 0;
-    font-weight: bold;
-    color: #fff;
+.loginBox p {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  color: #fff;
 }
-.loginBox input{
-    width: 100%;
-    margin-bottom: 20px;
+.loginBox input {
+  width: 100%;
+  margin-bottom: 20px;
 }
-.loginBox input[type="text"], 
-.loginBox input[type="password"]{
-    border: none;
-    border-bottom: 1px solid #fff;
-    background: transparent;
-    outline: none;
-    height: 40px;
-    color: #fff;
-    font-size: 16px;
+.loginBox input[type="text"],
+.loginBox input[type="password"] {
+  border: none;
+  border-bottom: 1px solid #fff;
+  background: transparent;
+  outline: none;
+  height: 40px;
+  color: #fff;
+  font-size: 16px;
 }
-::placeholder{
-    color: rgba(255, 255, 255, 0.5);
+::placeholder {
+  color: rgba(255, 255, 255, 0.5);
 }
-.loginBox input[type="submit"]{
-    border: none;
-    outline: none;
-    height: 40px;
-    color: #fff;
-    font-size: 16px;
-    background: #00a782;
-    cursor: pointer;
-    border-radius: 20px;
+.loginBox input[type="submit"] {
+  border: none;
+  outline: none;
+  height: 40px;
+  color: #fff;
+  font-size: 16px;
+  background: #00a782;
+  cursor: pointer;
+  border-radius: 20px;
 }
-.loginBox input[type="submit"]:hover{
-    background: #69f8d9;
-    color: #000;
+.loginBox input[type="submit"]:hover {
+  background: #69f8d9;
+  color: #000;
 }
-.loginBox a{
-    color: #fff;
-    font-size: 14px;
-    font-weight: bold;
-    text-decoration: none;
+.loginBox a {
+  color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
 }
 
 /*FOOTER*/
 footer {
-    background-color: #222;
-    color: #fff;
-    font-size: 14px;
-    bottom: 0;
-    position: fixed;
-    left: 0;
-    right: 0;
-    text-align: center;
-    z-index: 999;
+  background-color: #222;
+  color: #fff;
+  font-size: 14px;
+  bottom: 0;
+  position: fixed;
+  left: 0;
+  right: 0;
+  text-align: center;
+  z-index: 999;
 }
 
 footer p {
-    margin: 10px 0;
+  margin: 10px 0;
 }
 
 footer i {
-    color: red;
+  color: red;
 }
 
 footer a {
-    color: #3c97bf;
-    text-decoration: none;
+  color: #3c97bf;
+  text-decoration: none;
 }

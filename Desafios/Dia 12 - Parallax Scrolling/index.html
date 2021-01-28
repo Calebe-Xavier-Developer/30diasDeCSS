@@ -1,45 +1,53 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-    <head><meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Desafio 30 dias de CSS - Dia 12</title>
-        <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"/>
-    </head>    
-    <body>
-        <section>
-            <img src="images/bg.jpg" id="bg">
-            <img src="images/moon.png" id="moon">
-            <img src="images/mountain.png" id="mountain">
-            <img src="images/road.png" id="road">
-            <h2 id="text">Moon Light</h2>
-        </section>
-        <!--My personal footer-->
-        <footer>
-           <p>
-             Created with <i class="fa fa-heart"></i> by
-             <a target="_blank" href="https://www.linkedin.com/in/calebe-xavier/">Calebe Xavier</a>
-             - My <a target="_blank" href="https://github.com/Calebe-Xavier-Developer">Github</a>
-             profile.
-           </p>
-        </footer>
-        <script type="text/javascript">
-            let bg = document.getElementById("bg");
-            let moon = document.getElementById("moon");
-            let mountain = document.getElementById("mountain");
-            let road = document.getElementById("road");
-            let text = document.getElementById("text");
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Desafio 30 dias de CSS - Dia 12</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <section>
+      <img src="images/bg.jpg" id="bg" />
+      <img src="images/moon.png" id="moon" />
+      <img src="images/mountain.png" id="mountain" />
+      <img src="images/road.png" id="road" />
+      <h2 id="text">Moon Light</h2>
+    </section>
+    <!--My personal footer-->
+    <footer>
+      <p>
+        Created with <i class="fa fa-heart"></i> by
+        <a target="_blank" href="https://www.linkedin.com/in/calebe-xavier/"
+          >Calebe Xavier</a
+        >
+        - My
+        <a target="_blank" href="https://github.com/Calebe-Xavier-Developer"
+          >Github</a
+        >
+        profile.
+      </p>
+    </footer>
+    <script type="text/javascript">
+      let bg = document.getElementById("bg");
+      let moon = document.getElementById("moon");
+      let mountain = document.getElementById("mountain");
+      let road = document.getElementById("road");
+      let text = document.getElementById("text");
 
-            window.addEventListener('scroll', function(){
-                var value = window.scrollY;
+      window.addEventListener("scroll", function () {
+        var value = window.scrollY;
 
-                bg.style.top = value * 0.5 + 'px';
-                moon.style.left = -value * 0.5 + 'px';
-                mountain.style.top = -value * 0.15 + 'px';
-                road.style.top = value * 0.15 + 'px';
-                text.style.top = value * 1 + 'px';
-            })
-        </script>
-   </body>
+        bg.style.top = value * 0.5 + "px";
+        moon.style.left = -value * 0.5 + "px";
+        mountain.style.top = -value * 0.15 + "px";
+        road.style.top = value * 0.15 + "px";
+        text.style.top = value * 1 + "px";
+      });
+    </script>
+  </body>
 </html>
-    

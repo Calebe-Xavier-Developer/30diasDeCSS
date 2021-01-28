@@ -1,41 +1,49 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-    <head><meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Desafio 30 dias de CSS - Dia 13</title>
-        <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"/>
-    </head>    
-    <body>
-        <a id="btn" href="#">Button</a>
-        <a id="btn" href="#">Button</a>
-        <!--My personal footer-->
-        <footer>
-           <p>
-             Created with <i class="fa fa-heart"></i> by
-             <a target="_blank" href="https://www.linkedin.com/in/calebe-xavier/">Calebe Xavier</a>
-             - My <a target="_blank" href="https://github.com/Calebe-Xavier-Developer">Github</a>
-             profile.
-           </p>
-        </footer>
-        <script>
-            const buttons = document.querySelectorAll('a');
-            buttons.forEach(btn => {
-                btn.addEventListener('click', function(e) {
-                    let x = e.clientX - e.target.offsetLeft;
-                    let y = e.clientY - e.target.offsetTop;
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Desafio 30 dias de CSS - Dia 13</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <a id="btn" href="#">Button</a>
+    <a id="btn" href="#">Button</a>
+    <!--My personal footer-->
+    <footer>
+      <p>
+        Created with <i class="fa fa-heart"></i> by
+        <a target="_blank" href="https://www.linkedin.com/in/calebe-xavier/"
+          >Calebe Xavier</a
+        >
+        - My
+        <a target="_blank" href="https://github.com/Calebe-Xavier-Developer"
+          >Github</a
+        >
+        profile.
+      </p>
+    </footer>
+    <script>
+      const buttons = document.querySelectorAll("a");
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", function (e) {
+          let x = e.clientX - e.target.offsetLeft;
+          let y = e.clientY - e.target.offsetTop;
 
-                    let ripples = document.createElement('span');
-                    ripples.style.left = x + 'px';
-                    ripples.style.top = y + 'px';
-                    this.appendChild(ripples);
-                
-                    setTimeout(() => {
-                        ripples.remove()
-                    },1000);
-                })
-            })
-        </script>
-    </body>
- </html>
-     
+          let ripples = document.createElement("span");
+          ripples.style.left = x + "px";
+          ripples.style.top = y + "px";
+          this.appendChild(ripples);
+
+          setTimeout(() => {
+            ripples.remove();
+          }, 1000);
+        });
+      });
+    </script>
+  </body>
+</html>

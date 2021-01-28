@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap");
+
+/*FOOTER*/
+footer {
+  background-color: #222;
+  color: #fff;
+  font-size: 14px;
+  bottom: 0;
+  position: fixed; /*If you want it to float put | Se quer que flutue coloque*/
+  /*position: relative; /*If you want to float remove | Se quer que flutue retire*/
+  /*display: flex; /*If you want to float remove | Se quer que flutue retire*/
+  /*justify-content: center;*/ /*If you want to float remove | Se quer que flutue retire */
+  left: 0;
+  right: 0;
+  text-align: center; /*If you want it to float put | Se quer que flutue coloque*/
+  z-index: 999;
+}
+
+footer p {
+  margin: 10px 0;
+}
+
+footer i {
+  color: red;
+}
+
+footer a {
+  color: #3c97bf;
+  text-decoration: none;
+}

@@ -1,15 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
-*{
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap");
+* {
   margin: 0;
   padding: 0;
   position: relative;
   box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
-body{
+body {
   overflow-x: hidden;
 }
-.banner{
+.banner {
   position: relative;
   width: 100%;
   height: 100vh;
@@ -18,7 +18,7 @@ body{
   justify-content: center;
   align-items: center;
 }
-.banner img{
+.banner img {
   position: absolute;
   top: 0;
   left: 0;
@@ -27,20 +27,20 @@ body{
   object-fit: cover;
   opacity: 0.25;
 }
-.banner .content{
+.banner .content {
   position: relative;
   max-width: 750px;
   text-align: center;
 }
-.banner .content h2{
+.banner .content h2 {
   color: #fff;
   font-size: 60px;
 }
-.banner .content p{
+.banner .content p {
   color: #fff;
   font-size: 18px;
 }
-.banner header{
+.banner header {
   position: absolute;
   top: 0;
   left: 0;
@@ -51,7 +51,7 @@ body{
   align-items: center;
   z-index: 10000;
 }
-.banner header .logo{
+.banner header .logo {
   color: #fff;
   text-decoration: none;
   font-size: 24px;
@@ -59,7 +59,7 @@ body{
   font-weight: 700;
   letter-spacing: 1px;
 }
-.banner header .toggle{
+.banner header .toggle {
   position: relative;
   width: 36px;
   height: 28px;
@@ -67,42 +67,42 @@ body{
   background-size: cover;
   cursor: pointer;
 }
-.about{
+.about {
   position: relative;
   width: 100%;
   display: flex;
-  background: #16353b;;
+  background: #16353b;
 }
-.about .contentBx{
+.about .contentBx {
   background: #16353b;
   padding: 100px;
   width: 50%;
 }
-.heading{
+.heading {
   color: #fff;
   font-size: 30px;
   font-weight: 600;
   letter-spacing: 1px;
   margin-bottom: 10px;
 }
-.text{
+.text {
   color: #fff;
   font-size: 16px;
   font-weight: 300;
   letter-spacing: 1px;
 }
-.about .imgBx{
+.about .imgBx {
   background: url(../images/window.jpg);
   width: 50%;
   background-size: cover;
   background-position: center;
 }
-.services{
+.services {
   background: #102533;
   padding: 100px;
   text-align: center;
 }
-.services .container{
+.services .container {
   width: 100%;
   display: flex;
   justify-content: space-between;
@@ -110,7 +110,7 @@ body{
   flex-wrap: wrap;
   margin-top: 60px;
 }
-.services .container .serviceBx{
+.services .container .serviceBx {
   position: relative;
   background: #fff;
   width: 350px;
@@ -120,15 +120,15 @@ body{
   align-items: center;
   z-index: 1;
 }
-.services .container .serviceBx img{
+.services .container .serviceBx img {
   max-width: 100px;
 }
-.services .container .serviceBx h2{
+.services .container .serviceBx h2 {
   font-weight: 500;
   font-size: 20px;
   letter-spacing: 1px;
 }
-.technology{
+.technology {
   background: #fcd33f;
   width: 100%;
   padding: 100px;
@@ -137,59 +137,58 @@ body{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  
 }
-.technology .contentBx{
+.technology .contentBx {
   max-width: 800px;
 }
-.technology .contentBx h2{
+.technology .contentBx h2 {
   text-shadow: -2px 0px 4px rgb(0, 193, 252);
 }
-.technology .contentBx p{
+.technology .contentBx p {
   text-shadow: -2px 0px 4px rgb(0, 193, 252);
 }
-.technology .imgBx{
+.technology .imgBx {
   max-width: 250px;
 }
-.technology .imgBx img{
+.technology .imgBx img {
   max-width: 100%;
 }
-.client{
+.client {
   background: #162c3b;
   padding: 100px;
   text-align: center;
 }
-.client .imgBx{
+.client .imgBx {
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
   margin-top: 40px;
 }
-.client .imgBx img{
+.client .imgBx img {
   max-width: 200px;
   margin: 20px;
   opacity: 0.25;
   cursor: pointer;
 }
-.client .imgBx img:hover{
+.client .imgBx img:hover {
   opacity: 1;
   transition: 0.5s;
 }
-.testimonials{
+.testimonials {
   position: relative;
   padding: 100px;
   background: #12222d;
   text-align: center;
 }
-.testimonials .container{
+.testimonials .container {
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin-top: 40px;
   flex-wrap: wrap;
 }
-.testimonials .container .contentBx{
+.testimonials .container .contentBx {
   background: #fff;
   padding: 60px 50px;
   width: 550px;
@@ -198,34 +197,34 @@ body{
   align-items: center;
   text-align: left;
 }
-.testimonials .container .contentBx p{
+.testimonials .container .contentBx p {
   font-style: italic;
 }
-.testimonials .container .contentBx h3{
+.testimonials .container .contentBx h3 {
   width: 100%;
   text-align: end;
   font-weight: 500;
 }
-.contact{
+.contact {
   padding: 100px;
   background: #162c3b;
   text-align: center;
 }
-.imgBx2{
+.imgBx2 {
   background: url(../images/bg2.jpg);
   background-size: cover;
   background-position: center;
   width: 50%;
 }
-.redbg{
+.redbg {
   background: url(../images/red.jpg) !important;
   background-size: cover;
   background-position: center;
 }
-.form .inputBx{
+.form .inputBx {
   margin-bottom: 40px;
 }
-.form .inputBx input{
+.form .inputBx input {
   width: 100%;
   background: transparent;
   box-shadow: none;
@@ -237,10 +236,10 @@ body{
   color: #fff;
   border-bottom: 2px solid #fff;
 }
-.form .inputBx input::placeholder{
+.form .inputBx input::placeholder {
   color: #fff;
 }
-.form .inputBx textarea{
+.form .inputBx textarea {
   width: 100%;
   background: transparent;
   box-shadow: none;
@@ -253,160 +252,160 @@ body{
   min-height: 150px;
   border-bottom: 2px solid #fff;
 }
-.form .inputBx textarea::placeholder{
+.form .inputBx textarea::placeholder {
   color: #fff;
 }
-.form .inputBx input[type="submit"]{
+.form .inputBx input[type="submit"] {
   width: 150px;
   background: #fff;
   color: #111;
   cursor: pointer;
   font-weight: 400;
 }
-.footer{
+.footer {
   background: #162c3b;
   padding: 20px 100px;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-.footer ul{
+.footer ul {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.footer ul li{
+.footer ul li {
   list-style: none;
 }
-.footer ul li a{
+.footer ul li a {
   text-decoration: none;
   display: inline-block;
   margin: 0 10px;
 }
-.footer ul li a img{
+.footer ul li a img {
   filter: invert(1);
   max-width: 20px;
 }
 
-@media (max-width: 991px){
-  .banner{
+@media (max-width: 991px) {
+  .banner {
     padding: 50px;
     transition: 0.5s;
   }
-  .banner header{
+  .banner header {
     padding: 20px 50px;
     transition: 0.5s;
   }
-  .banner .content h2{
+  .banner .content h2 {
     font-size: 35px;
     transition: 0.5s;
   }
-  .banner .content p{
+  .banner .content p {
     font-size: 15px;
     transition: 0.5s;
   }
-  .about{
+  .about {
     flex-direction: column;
     transition: 0.5s;
   }
-  .about .contentBx, .about .imgBx{
+  .about .contentBx,
+  .about .imgBx {
     width: 100%;
     padding: 50px;
     min-height: 400px;
     text-align: center;
     transition: 0.5s;
   }
-  .services{
+  .services {
     padding: 50px;
     transition: 0.5s;
   }
-  .services .container{
+  .services .container {
     justify-content: center;
     margin-top: 20px;
     transition: 0.5s;
   }
-  .services .container .serviceBx{
+  .services .container .serviceBx {
     margin: 20px;
     width: 300px;
     height: 350px;
     transition: 0.5s;
   }
-  .technology{
+  .technology {
     padding: 50px;
     padding-top: 300px;
     justify-content: center;
     flex-direction: column;
     transition: 0.5s;
   }
-  .technology .imgBx{
+  .technology .imgBx {
     margin-top: 40px;
     max-width: 250px;
     transition: 0.5s;
   }
-  .client{
+  .client {
     padding: 50px;
     transition: 0.5s;
   }
-  .client .imgBx{
+  .client .imgBx {
     justify-content: center;
     transition: 0.5s;
   }
-  .testimonials{
+  .testimonials {
     padding: 50px;
     transition: 0.5s;
   }
-  .testimonials .contentBx{
+  .testimonials .contentBx {
     padding: 60px 40px;
     max-width: 550px;
     margin-bottom: 40px;
     transition: 0.5s;
   }
-  .testimonials .contentBx:last-child{
+  .testimonials .contentBx:last-child {
     margin-bottom: 0px;
     transition: 0.5s;
   }
-  .contact{
+  .contact {
     padding: 50px;
     transition: 0.5s;
   }
-  .footer{
+  .footer {
     padding: 20px 50px;
     flex-direction: column-reverse;
     text-align: center;
     transition: 0.5s;
   }
-  .footer ul{
+  .footer ul {
     margin-bottom: 20px;
     transition: 0.5s;
   }
 }
 
-
 /*FOOTER*/
 footer {
-    background-color: #222;
-    color: #fff;
-    font-size: 14px;
-    bottom: 0;
-    /*position: fixed;*/ /*If you want it to float put | Se quer que flutue coloque*/
-    position: relative; /*If you want to float remove | Se quer que flutue retire*/
-    display: flex; /*If you want to float remove | Se quer que flutue retire*/
-    justify-content: center; /*If you want to float remove | Se quer que flutue retire */
-    left: 0;
-    right: 0;
-    /*text-align: center;*/ /*If you want it to float put | Se quer que flutue coloque*/
-    z-index: 999;
-  }
-  
-  footer p {
-    margin: 10px 0;
-  }
-  
-  footer i {
-    color: red;
-  }
-  
-  footer a {
-    color: #3c97bf;
-    text-decoration: none;
-  }
+  background-color: #222;
+  color: #fff;
+  font-size: 14px;
+  bottom: 0;
+  /*position: fixed;*/ /*If you want it to float put | Se quer que flutue coloque*/
+  position: relative; /*If you want to float remove | Se quer que flutue retire*/
+  display: flex; /*If you want to float remove | Se quer que flutue retire*/
+  justify-content: center; /*If you want to float remove | Se quer que flutue retire */
+  left: 0;
+  right: 0;
+  /*text-align: center;*/ /*If you want it to float put | Se quer que flutue coloque*/
+  z-index: 999;
+}
+
+footer p {
+  margin: 10px 0;
+}
+
+footer i {
+  color: red;
+}
+
+footer a {
+  color: #3c97bf;
+  text-decoration: none;
+}

@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
   font-family: "Open Sans", sans-serif;
@@ -6,7 +6,7 @@
   text-decoration: none;
 }
 
-body{
+body {
   background: url(images/bg1.jpg) no-repeat center;
   background-size: cover;
   min-height: 100vh;
@@ -15,7 +15,7 @@ body{
   justify-content: center;
 }
 
-.container{
+.container {
   max-width: 1200px;
   padding: 0 40px;
   display: flex;
@@ -24,11 +24,12 @@ body{
   flex-wrap: wrap;
 }
 
-.image, .accordion-menu{
+.image,
+.accordion-menu {
   width: calc(50% - 20px);
 }
 
-.title{
+.title {
   background-color: #000000;
   display: flex;
   color: rgb(255, 230, 0);
@@ -41,12 +42,13 @@ body{
   justify-content: space-between;
 }
 
-.icon{
+.icon {
   position: relative;
   width: 14px;
 }
 
-.icon::before, .icon::after{
+.icon::before,
+.icon::after {
   content: "";
   position: absolute;
   width: 14px;
@@ -55,12 +57,12 @@ body{
   top: -1.5px;
 }
 
-.icon::after{
+.icon::after {
   transform: rotate(90deg);
-  transition: .5s linear;
+  transition: 0.5s linear;
 }
 
-.text{
+.text {
   background-color: #ffee0060;
   color: rgb(0, 0, 0);
   line-height: 26px;
@@ -69,23 +71,24 @@ body{
   height: 0;
 }
 
-.item:target .text{
+.item:target .text {
   height: auto;
   opacity: 1;
   padding: 20px;
   margin: 12px 0;
 }
 
-.item:target .icon::after{
+.item:target .icon::after {
   transform: rotate(0);
 }
 
-@media screen and (max-width:960px){
-  .container{
+@media screen and (max-width: 960px) {
+  .container {
     max-width: 600px;
   }
 
-  .image, .accordion-menu{
+  .image,
+  .accordion-menu {
     width: 100%;
     margin: 20px 0;
   }
@@ -116,4 +119,3 @@ footer a {
   color: #3c97bf;
   text-decoration: none;
 }
-
