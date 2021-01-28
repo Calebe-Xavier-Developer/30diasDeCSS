@@ -19,5 +19,53 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
     />
   </head>
-  <body></body>
+  <body>
+    <section>
+      <div class="card">
+        <div class="form">
+          <h2>Login</h2>
+          <form>
+            <div class="input">
+              <input type="text" name="username" placeholder="Username" />
+              <i class="fas fa-user"></i>
+            </div>
+            <div class="input">
+              <input
+                type="password"
+                name="password"
+                placeholder="Password"
+                id="password"
+              />
+              <a href="#" onclick="showORhide()">
+                <i class="fas fa-lock" id="icon"></i>
+              </a>
+            </div>
+            <label class="check">
+              <input type="checkbox" name="remember" /> Remember Me
+            </label>
+            <div class="input">
+              <input type="submit" value="Login" />
+            </div>
+          </form>
+          <p>Forget <a href="#">Password</a></p>
+          <p>Need an account ? <a href="#">Register</a></p>
+        </div>
+      </div>
+    </section>
+    <!-- My personal footer-->
+    <footer>
+      <p>
+        Created with <i class="fa fa-heart"></i> by
+        <a target="_blank" href="https://www.linkedin.com/in/calebe-xavier/"
+          >Calebe Xavier</a
+        >
+        - My
+        <a target="_blank" href="https://github.com/Calebe-Xavier-Developer"
+          >Github</a
+        >
+        profile.
+      </p>
+    </footer>
+    <script src="js/script.js"></script>
+  </body>
 </html>
