@@ -5,7 +5,102 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
-
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #21f38a;
+}
+.sign-up,
+.pop-up .content .input input[type="submit"] {
+  position: relative;
+  padding: 15px 20px;
+  background: #fff;
+  font-size: 18px;
+  display: inline-block;
+  text-decoration: none;
+  color: #21f38a;
+  cursor: pointer;
+  font-weight: 500;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  transition: 0.5s;
+}
+.sign-up:hover {
+  letter-spacing: 15px;
+}
+.pop-up {
+  top: -120%;
+  position: absolute;
+  display: flex;
+  align-self: center;
+  transform: translate(0%, -4%);
+  z-index: 999;
+  background: #fff;
+  width: 450px;
+  padding: 80px 50px 50px;
+  box-shadow: 0 15px 30px rgb(0 0 0 / 8%);
+  transition: 0.5s;
+  visibility: hidden;
+}
+.pop-up.active {
+  visibility: visible;
+  top: 0;
+}
+.pop-up .content {
+  width: 100%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.pop-up .content i {
+  font-size: 80px;
+  color: #21f38a;
+}
+.pop-up .content h2 {
+  font-size: 24px;
+  font-weight: 500;
+  color: #333;
+  margin: 20px 0 10px;
+}
+.pop-up .content p {
+  text-align: center;
+  font-size: 16px;
+  color: #333;
+}
+.pop-up .content .input {
+  position: relative;
+  width: 100%;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pop-up .content .input input {
+  width: 100%;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  padding: 15px;
+  outline: none;
+  font-size: 18px;
+}
+.pop-up .content .input input[type="submit"] {
+  max-width: 150px;
+  background: #21f38a;
+  color: #fff;
+  border: none;
+}
+.close {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  cursor: pointer;
+  font-size: 30px;
+  font-weight: 300;
+  color: gray;
+}
 /*FOOTER*/
 footer {
   background-color: #222;
@@ -22,14 +117,14 @@ footer {
   z-index: 999;
 }
 
-@media (max-width: 500px) {
+/*@media (max-width: 500px) {
   footer {
     position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
   }
-}
+}*/
 footer p {
   margin: 10px 0;
 }
