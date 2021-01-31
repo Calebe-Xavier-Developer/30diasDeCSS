@@ -25,6 +25,17 @@ section::before {
   height: 800px;
   background: linear-gradient(#f00, #f0f);
   border-radius: 50%;
+  background: linear-gradient(-30deg, #f40303 0%, #b73a87 50%, #8b6e60 100%);
+  filter: hue-rotate(120deg);
+  animation: change 10s linear infinite;
+}
+@keyframes change {
+  0% {
+    filter: hue-rotate(0deg);
+  }
+  100% {
+    filter: hue-rotate(360deg);
+  }
 }
 
 .card {

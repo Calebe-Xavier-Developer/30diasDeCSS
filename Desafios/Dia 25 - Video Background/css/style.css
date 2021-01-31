@@ -25,14 +25,20 @@
   object-fit: cover;
   z-index: -1;
 }
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  align-self: flex-start;
+}
 .content img {
-  position: absolute;
-  top: -50px;
-  left: 150px;
+  position: relative;
+  height: 400px;
 }
 .content a {
-  top: 100px;
-  position: relative;
+  top: 246px;
+  position: absolute;
   font-family: "barlow";
   display: block;
   margin: 50px auto;
