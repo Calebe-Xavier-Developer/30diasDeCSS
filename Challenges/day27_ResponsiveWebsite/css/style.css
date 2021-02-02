@@ -63,7 +63,7 @@ body {
   position: relative;
   width: 36px;
   height: 28px;
-  background: url(../images/toggle.png);
+  background: url(../img/toggle.png);
   background-size: cover;
   cursor: pointer;
 }
@@ -92,7 +92,7 @@ body {
   letter-spacing: 1px;
 }
 .about .imgBx {
-  background: url(../images/window.jpg);
+  background: url(../img/window.jpg);
   width: 50%;
   background-size: cover;
   background-position: center;
@@ -211,13 +211,13 @@ body {
   text-align: center;
 }
 .imgBx2 {
-  background: url(../images/bg2.jpg);
+  background: url(../img/bg2.jpg);
   background-size: cover;
   background-position: center;
   width: 50%;
 }
 .redbg {
-  background: url(../images/red.jpg) !important;
+  background: url(../img/red.jpg) !important;
   background-size: cover;
   background-position: center;
 }
