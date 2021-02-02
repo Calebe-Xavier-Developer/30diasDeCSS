@@ -5,7 +5,7 @@ body {
   font-family: sans-serif;
 }
 .background {
-  background: url(../images/cybercity.jpg);
+  background: url(../img/cybercity.jpg);
   background-size: cover;
   position: fixed;
   width: 100%;

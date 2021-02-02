@@ -28,35 +28,35 @@ section .star {
 }
 section .star.star1 {
   animation-delay: 0s;
-  background: url(images/star1.png);
+  background: url(../img/star1.png);
 }
 section .star.star2 {
   animation-delay: -1s;
-  background: url(images/star2.png);
+  background: url(../img/star2.png);
 }
 section .star.star3 {
   animation-delay: -2s;
-  background: url(images/star3.png);
+  background: url(../img/star3.png);
 }
 section .star.star4 {
   animation-delay: -3s;
-  background: url(images/star4.png);
+  background: url(../img/star4.png);
 }
 section .star.star5 {
   animation-delay: -4s;
-  background: url(images/star5.png);
+  background: url(../img/star5.png);
 }
 section .star.star6 {
   animation-delay: -5s;
-  background: url(images/star6.png);
+  background: url(../img/star6.png);
 }
 section .star.star7 {
   animation-delay: -6s;
-  background: url(images/star7.png);
+  background: url(../img/star7.png);
 }
 section .star.star8 {
   animation-delay: -7s;
-  background: url(images/star8.png);
+  background: url(../img/star8.png);
 }
 @keyframes animate {
   0%,
