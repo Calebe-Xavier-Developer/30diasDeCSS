@@ -52,53 +52,53 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 
 
 ##  Desafio dia 01 - Efeito pulsar com imagens e design responsivo <a name="id01"></a>
-![Dia 01](Desafios/Dia%2001%20-%20botões%20pulsantes/images/Dia%2001%20-%20Mugiwara%20Pulse.gif)
+![Dia 01](Challenges/day01_PulseEffect/img/day01_PulseEffect.gif)
 
 
-[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2001%20-%20bot%C3%B5es%20pulsantes)
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Challenges/day01_PulseEffect)
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6739651237563662336/) 
 
 
 
 ##  Desafio dia 02 - Snake Border e design responsivo <a name="id02"></a>
-![Dia 02](Desafios/Dia%2002%20-%20snake%20border/images/Dia%2002%20-%20Snake%20Border.gif)
+![Dia 02](Challenges/day02_SnakeBorder/img/day02_SnakeBorder.gif)
 
 
-[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2002%20-%20snake%20border)
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Challenges/day02_SnakeBorder)
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6740088385932681217/) 
 
 
 
 ##  Desafio dia 03 - Efeito Girar <a name="id03"></a>
-![Dia 03](Desafios/Dia%2003%20-%20Efeito%20de%20Giro/images/Dia%2003%20-%20Efeito%20girar.gif)
+![Dia 03](Challenges/day03_FlipEffect/img/day03_FlipEffect.gif)
 
 
 
-[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2003%20-%20Efeito%20de%20Giro)
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Challenges/day03_FlipEffect)
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6740400467605508097/)
 
 
 
 ##  Desafio dia 04 - Efeito Hover no Menu <a name="id04"></a>
-![Dia 04](Desafios/Dia%2004%20-%20Efeito%20hover%20menu/images/Dia%2004%20-%20Efeito%20hover%20menu.gif)
+![Dia 04](Challenges/day04_HoverMenu/img/day04_HoverMenu.gif)
 
 
 
-[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/feature/dia04/Desafios/Dia%2004%20-%20Efeito%20hover%20menu)
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Challenges/day04_HoverMenu)
 
 [Post Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6740631457326231552/)
 
 
 
 ##  Desafio dia 05 - Formulário para Login <a name="id05"></a>
-![Dia 05](Desafios/Dia%2005%20-%20Login%20Form/images/Dia%2005%20-%20Login%20form.gif)
+![Dia 05](Challenges/day05_LoginForm/img/day05_Loginform.gif)
 
 
 
-[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/feature/dia05/Desafios/Dia%2005%20-%20Login%20Form)
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Challenges/day05_LoginForm)
 
 [Post Linkedin](https://www.linkedin.com/feed/update/urn:li:ugcPost:6741176081149132800/)
 
@@ -106,33 +106,33 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 
 
 ##  Desafio dia 06 - Portfolio Landing Page Responsive <a name="id06"></a>
-![Dia 06](Desafios/Dia%2006%20-%20Portifolio%20Landing%20Page/images/Dia%2006%20-%20Portifolio%20Landing%20Page.gif)
+![Dia 06](Challenges/day06_PortifolioLandingPage/img/day06_PortifolioLandingPage.gif)
 
 
 
-[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2006%20-%20Portifolio%20Landing%20Page)
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Challenges/day06_PortifolioLandingPage)
 
 [Post Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6741544885771358208/)
 
 
 
 ##  Desafio dia 07 - Responsive Contact Form <a name="id07"></a>
-![Dia 07](Desafios/Dia%2007%20-%20Responsive%20Contact%20Form/images/Dia%2007%20-%20Responsive%20Contact%20Form.gif)
+![Dia 07](Challenges/day07_ResponsiveContactForm/img/day07_ResponsiveContactForm.gif)
 
 
 
-[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2007%20-%20Responsive%20Contact%20Form)
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Challenges/day07_ResponsiveContactForm)
 
 [Post Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6741901984623812608/)
 
 
 
 ##  Desafio dia 08 - Loading Animation <a name="id08"></a>
-![Dia 08](Desafios/Dia%2008%20-%20Loading%20Animation/images/Dia%2008%20-%20Loading%20Animation.gif)
+![Dia 08](Challenges/day08_LoadingAnimation/img/day08_LoadingAnimation.gif)
 
 
 
-[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2008%20-%20Loading%20Animation)
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Challenges/day08_LoadingAnimation)
 
 [Post Linkedin](https://www.linkedin.com/feed/update/urn:li:ugcPost:6742256310970015744/)
 
@@ -140,22 +140,22 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 
 
 ##  Desafio dia 09 - Profile Card <a name="id09"></a>
-![Dia 09](Desafios/Dia%2009%20-%20Profile%20Card/images/Dia%2009%20-%20Card%20Profile.gif)
+![Dia 09](Challenges/day09_ProfileCard/img/day09_ProfileCard.gif)
 
 
 
-[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/featuer/dia09/Desafios/Dia%2009%20-%20Profile%20Card)
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Challenges/day09_ProfileCard)
 
 [Post Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6742627560343113728/)
 
 
 
 ##  Dia 10 - Text Animation <a name="id10"></a>
-![Dia 10](Desafios/Dia%2010%20%20-%20Text%20Animation/images/Dia%2010%20-%20Text%20Animation.gif)
+![Dia 10](Challenges/day10_TextAnimation/img/day10_TextAnimation.gif)
 
 
 
-[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2010%20%20-%20Text%20Animation)
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Challenges/day10_TextAnimation)
 
 [Post Linkedin](https://www.linkedin.com/feed/update/urn:li:ugcPost:6742995138647232512/)
 
@@ -163,11 +163,11 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 
 
 ##  Dia 11 - Card Hover <a name="id11"></a>
-![Dia 11](Desafios/Dia%2011%20-%20%20Card%20Hover%20Effect/images/Dia%2011%20-%20Card%20Hover.gif)
+![Dia 11](Challenges/day11_CardHoverEffect/img/day11_CardHoverEffect.gif)
 
 
 
-[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Desafios/Dia%2011%20-%20%20Card%20Hover%20Effect)
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Challenges/day11_CardHoverEffect)
 
 [Post Linkedin](https://www.linkedin.com/feed/update/urn:li:ugcPost:6743349434240782336/)
 
