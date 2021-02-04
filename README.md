@@ -157,7 +157,7 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 
 
 
-##  Dia 10 - Text Animation <a name="id10"></a>
+##  Desafio dia 10 - Text Animation <a name="id10"></a>
 ![Dia 10](Challenges/day10_TextAnimation/img/day10_TextAnimation.gif)
 
 
@@ -169,7 +169,7 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 
 
 
-##  Dia 11 - Card Hover <a name="id11"></a>
+##  Desafio dia 11 - Card Hover <a name="id11"></a>
 ![Dia 11](Challenges/day11_CardHoverEffect/img/day11_CardHoverEffect.gif)
 
 
@@ -181,7 +181,7 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 
 
 
-##  Dia 12 - Parallax Scrolling <a name="id12"></a>
+##  Desafio dia 12 - Parallax Scrolling <a name="id12"></a>
 ![Dia 12](Challenges/day12_ParallaxScrolling/img/day12_ParallaxScrolling.gif)
 
 
@@ -192,7 +192,7 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 
 
 
-##  Dia 13 - Button Riplle Effect <a name="id13"></a>
+##  Desafio dia 13 - Button Riplle Effect <a name="id13"></a>
 ![Dia 13](Challenges/day13_ButtonRiplleEffect/img/day13_ButtonRiplleEffect.gif)
 
 
@@ -203,7 +203,7 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 
 
 
-##  Dia 14 - Hovering Cards <a name="id14"></a>
+##  Desafio dia 14 - Hovering Cards <a name="id14"></a>
 ![Dia 14](Challenges/day14_HoveringCards/img/day14_HoveringCards.gif)
 
 
@@ -214,7 +214,7 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 
 
 
-##  Dia 15 - Creative Hover Menu <a name="id15"></a>
+##  Desafio dia 15 - Creative Hover Menu <a name="id15"></a>
 ![Dia 15](Challenges/day15_CreativeHoverMenu/img/day15_CreativeHoverMenu.gif)
 
 
@@ -226,7 +226,7 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 
 
 
-##  Dia 16 - Move Background On Scroll <a name="id16"></a>
+##  Desafio dia 16 - Move Background On Scroll <a name="id16"></a>
 ![Dia 16](Challenges/day16_MoveBackgroundOnScroll/img/day16_MoveBackgroundOnScroll.gif)
 
 
@@ -238,7 +238,7 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 
 
 
-##  Dia 17 - Acoordin Menu <a name="id17"></a>
+##  Desafio dia 17 - Acoordin Menu <a name="id17"></a>
 ![Dia 17](Challenges/day17_AcorddingMenu/img/day17_AcorddingMenu.gif)
 
 
@@ -250,7 +250,7 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 
 
 
-##  Dia 18 - Social Tiles <a name="id18"></a>
+##  Desafio dia 18 - Social Tiles <a name="id18"></a>
 ![Dia 18](Challenges/day18_SocialTiles/img/day18_SocialTiles.gif)
 
 
@@ -262,7 +262,7 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 
 
 
-##  Dia 19 - Responsive Box <a name="id19"></a>
+##  Desafio dia 19 - Responsive Box <a name="id19"></a>
 ![Dia 19](Challenges/day19_ResponsiveBox/img/day19_ResponsiveBox.gif)
 
 
@@ -274,7 +274,7 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 
 
 
-##  Dia 20 - Hexagon Image Hover <a name="id20"></a>
+##  Desafio dia 20 - Hexagon Image Hover <a name="id20"></a>
 ![Dia 20](Challenges/day20_HexagonImageHover/img/day20_HexagonImageHover.gif)
 
 
@@ -287,7 +287,7 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 
 
 
-##  Dia 21 - Picture Hover Effect <a name="id21"></a>
+##  Desafio dia 21 - Picture Hover Effect <a name="id21"></a>
 ![Dia 21](Challenges/day21_PictureHoverEffect/img/day21_PictureHoverEffect.gif)
 
 
@@ -300,7 +300,7 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 
 
 
-##  Dia 22 - Cards Animations <a name="id22"></a>
+##  Desafio dia 22 - Cards Animations <a name="id22"></a>
 ![Dia 22](Challenges/day22_UIAnimations/img/day22_UIAnimations.gif)
 
 
@@ -312,7 +312,7 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 
 
 
-##  Dia 23 - Simple Form Login <a name="id23"></a>
+##  Desafio dia 23 - Simple Form Login <a name="id23"></a>
 ![Dia 23](Challenges/day23_SimpleFormLogin/img/day23_SimpleFormLogin.gif)
 
 
@@ -321,3 +321,15 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 [Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Challenges/day23_SimpleFormLogin)
 
 [Post Linkedin](https://www.linkedin.com/posts/calebe-xavier_30diasdecss-activity-6750511099684130816-TmUz)
+
+
+
+##  Desafio dia 24 - Glass Morphism Effect <a name="id23"></a>
+![Dia 24](Challenges/day24_GlassMorphismEffect/img/day24_GlassMorphismEffect.gif)
+
+
+
+
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Challenges/day24_GlassMorphismEffect)
+
+[Post Linkedin](https://www.linkedin.com/posts/calebe-xavier_30diasdecss-activity-6750511307843235840-esR4)
