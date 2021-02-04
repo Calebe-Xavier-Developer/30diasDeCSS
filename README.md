@@ -1,6 +1,8 @@
+
+
 ## 🚀 30diasDeCSS 🚀
  
- Fala Devs, beleza? 🖖
+ Olá Comunidade, beleza? 🖖
 
  30 dias de CSS3, é um desafio que visa ajudá-lo a melhorar suas habilidades de codificação fazendo mini projetos diarios utilizando HTML5 e CSS3 
 
@@ -47,6 +49,11 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 * [Dia 17 - Acoordin Menu](#id17)
 * [Dia 18 - Social Tiles](#id18)
 * [Dia 19 - Responsive Box](#id19)
+* [Dia 20 - Hexagon Image Hover](#id20)
+* [Dia 21 - Picture Hover Effect](#id21)
+* [Dia 22 - Cards Animations](#id22)
+* [Dia 23 - Simple Form Login](#id23)
+
 
 
 
@@ -264,3 +271,53 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 [Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Challenges/day19_ResponsiveBox)
 
 [Post Linkedin](https://www.linkedin.com/posts/calebe-xavier_30diasdecss-activity-6749174494742515712-1WBw)
+
+
+
+##  Dia 20 - Hexagon Image Hover <a name="id20"></a>
+![Dia 20](Challenges/day20_HexagonImageHover/img/day20_HexagonImageHover.gif)
+
+
+
+
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Challenges/day20_HexagonImageHover)
+
+[Post Linkedin](https://www.linkedin.com/posts/calebe-xavier_30diasdecss-activity-6750150824485232640-4swT)
+
+
+
+
+##  Dia 21 - Picture Hover Effect <a name="id21"></a>
+![Dia 21](Challenges/day21_PictureHoverEffect/img/day21_PictureHoverEffect.gif)
+
+
+
+
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Challenges/day21_PictureHoverEffect)
+
+[Post Linkedin](https://www.linkedin.com/posts/calebe-xavier_30diasdecss-activity-6750150994602024960-pAWS)
+
+
+
+
+##  Dia 22 - Cards Animations <a name="id22"></a>
+![Dia 22](Challenges/day22_UIAnimations/img/day22_UIAnimations.gif)
+
+
+
+
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Challenges/day22_UIAnimations)
+
+[Post Linkedin](https://www.linkedin.com/posts/calebe-xavier_30diasdecss-activity-6750151611600904192-2Yks)
+
+
+
+##  Dia 23 - Simple Form Login <a name="id23"></a>
+![Dia 23](Challenges/day23_SimpleFormLogin/img/day23_SimpleFormLogin.gif)
+
+
+
+
+[Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Challenges/day23_SimpleFormLogin)
+
+[Post Linkedin](https://www.linkedin.com/posts/calebe-xavier_30diasdecss-activity-6750511099684130816-TmUz)
