@@ -1,6 +1,33 @@
 [EN](#id100) | [PT-BR](#id101)
 
 
+## 🚀 30diasDeCSS 🚀 <a name="id100"> </a>
+ 
+ Hello Community, that's ok? 🖖
+
+ 30 days of CSS, is a challenge that aims to help me improve coding skills by doing mini daily projects using HTML5 and CSS3
+
+ ## Goal
+
+30 days of CSS3 is a challenge that I accepted from @MilenaCarecho profile (and you can also participate), where I will be starting from today (December 1st, 2020), which aims to improve my skills in HTML5 and CSS3 through the realization of projects.
+
+
+## General rules
+
+* Perform one project per day
+* Share your progress on social media (Twitter, Facebook, Linkedin etc.) using the hashtag # 30diasDeCSS
+* The project must be completed by 11:59 pm
+
+
+Like the idea?
+[Click here] (https://github.com/MilenaCarecho/30diasDeCSS/issues/1) to participate
+
+#### Youtube References and ideas for the challenges
+[Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) -
+[Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) -
+[DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
+
+
 
 ## 🚀 30diasDeCSS 🚀<a name="id101"></a>
  
