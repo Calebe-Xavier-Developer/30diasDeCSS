@@ -1,34 +1,5 @@
 [EN](#id100) | [PT-BR](#id101)
 
-
-## 🚀 30diasDeCSS 🚀 <a name="id100"> </a>
- 
- Hello Community, that's ok? 🖖
-
- 30 days of CSS, is a challenge that aims to help me improve coding skills by doing mini daily projects using HTML5 and CSS3
-
- ## Goal
-
-30 days of CSS3 is a challenge that I accepted from @MilenaCarecho profile (and you can also participate), where I will be starting from today (December 1st, 2020), which aims to improve my skills in HTML5 and CSS3 through the realization of projects.
-
-
-## General rules
-
-* Perform one project per day
-* Share your progress on social media (Twitter, Facebook, Linkedin etc.) using the hashtag # 30diasDeCSS
-* The project must be completed by 11:59 pm
-
-
-Like the idea?
-[Click here] (https://github.com/MilenaCarecho/30diasDeCSS/issues/1) to participate
-
-#### Youtube References and ideas for the challenges
-[Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) -
-[Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) -
-[DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
-
-
-
 ## 🚀 30diasDeCSS 🚀<a name="id101"></a>
  
  Olá Comunidade, beleza? 🖖
@@ -362,3 +333,59 @@ Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
 [Meu código](https://github.com/Calebe-Xavier-Developer/30diasDeCSS/tree/main/Challenges/day24_GlassMorphismEffect)
 
 [Post Linkedin](https://www.linkedin.com/posts/calebe-xavier_30diasdecss-activity-6750511307843235840-esR4)
+
+
+
+
+## 🚀 30diasDeCSS 🚀 <a name="id100"> </a>
+ 
+ Hello Community, that's ok? 🖖
+
+ 30 days of CSS, is a challenge that aims to help me improve coding skills by doing mini daily projects using HTML5 and CSS3
+
+ ## Goal
+
+30 days of CSS3 is a challenge that I accepted from @MilenaCarecho profile (and you can also participate), where I will be starting from today (December 1st, 2020), which aims to improve my skills in HTML5 and CSS3 through the realization of projects.
+
+
+## General rules
+
+* Perform one project per day
+* Share your progress on social media (Twitter, Facebook, Linkedin etc.) using the hashtag # 30diasDeCSS
+* The project must be completed by 11:59 pm
+
+
+Like the idea?
+[Click here] (https://github.com/MilenaCarecho/30diasDeCSS/issues/1) to participate
+
+#### Youtube References and ideas for the challenges
+[Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) -
+[Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) -
+[DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
+
+Abaixo estarei especificando cada projeto seguindo o modelo da @MilenaCarecho
+
+
+* [Day 01 - Pulse effect with images and responsive design](#id01000)
+* [Dia 02 - Snake Border and responsive design](#id02000)
+* [Dia 03 - Flip effect](#id03000)
+* [Dia 04 - Hover effect in the menu](#id04000)
+* [Dia 05 - Login form](#id05000)
+* [Dia 06 - Responsive Portfolio](#id06000)
+* [Dia 07 - Responsive Contact Form](#id07000)
+* [Dia 08 - Loading Animation](#id08000)
+* [Dia 09 - Profile Card](#id09000)
+* [Dia 10 - Text Animation](#id10000)
+* [Dia 11 - Card Hover](#id11000)
+* [Dia 12 - Parallax Scrolling](#id12000)
+* [Dia 13 - Button Riplle Effect](#id13000)
+* [Dia 14 - Hovering Cards](#id14000)
+* [Dia 15 - Creative Hover Menu](#id15000)
+* [Dia 16 - Move Background On Scroll](#id16000)
+* [Dia 17 - Agreement Menu](#id17000)
+* [Dia 18 - Social Tiles](#id18000)
+* [Dia 19 - Responsive Box](#id19000)
+* [Dia 20 - Hexagon Image Hover](#id20000)
+* [Dia 21 - Picture Hover Effect](#id21000)
+* [Dia 22 - Cards Animations](#id22000)
+* [Dia 23 - Simple Form Login](#id23000)
