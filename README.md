@@ -1,6 +1,8 @@
 [EN](#id100) | [PT-BR](#id101)
 
 ## 🚀 30diasDeCSS 🚀<a name="id101"></a>
+
+(Projeto para 2022 - Repaginar totalmente o conteudo desse repositorio)
  
  Olá Comunidade, beleza? 🖖
 
